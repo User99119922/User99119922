@@ -6,7 +6,7 @@
 
 <img src="./assets/personagem.png" width="180" alt="Meu personagem tecnológico" />
 
-### `Olá, eu sou [SEU NOME]`
+### `Olá, eu sou [ABRAÂO]`
 
 **Desenvolvedor • Criador de projetos • Explorador de tecnologia**
 
