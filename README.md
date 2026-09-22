@@ -6,7 +6,7 @@
 
 <img src="./assets/personagem.png" width="180" alt="Meu personagem tecnológico" />
 
-### `Olá, eu sou [ABRAÂO]`
+### `Olá, eu sou [ABRAÃO]`
 
 **Desenvolvedor • Criador de projetos • Explorador de tecnologia**
 
@@ -25,8 +25,8 @@
 ## `> whoami`
 
 ```yaml
-name: "[SEU NOME]"
-username: "[SEU_USUARIO_GITHUB]"
+name: "[ABRAÃO]"
+username: "[User99119922]"
 location: "Brasil 🇧🇷"
 role: "Desenvolvedor e criador independente"
 currently_learning:
