@@ -158,13 +158,9 @@ Experimentos e projetos voltados à criação de ferramentas inteligentes e expe
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/User99119922">
   <img src="https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-080B16?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
-</a>
-<a href="https://www.youtube.com/@SEU_CANAL">
+<a href="https://www.youtube.com/@NotRealFeckzy-english">
   <img src="https://img.shields.io/badge/YouTube-080B16?style=for-the-badge&logo=youtube&logoColor=FF0055" />
 </a>
 
