@@ -6,9 +6,9 @@
 
 <img src="./assets/personagem.png" width="180" alt="Meu personagem tecnológico" />
 
-### `Olá, eu sou [ABRAÃO]`
+### `Olá, eu sou [USER]`
 
-**Desenvolvedor • Criador de projetos • Explorador de tecnologia**
+**Desenvolvedora • Criador de projetos • Explorador de tecnologia**
 
 > Transformando ideias em experiências digitais, uma linha de código por vez.
 
@@ -25,10 +25,10 @@
 ## `> whoami`
 
 ```yaml
-name: "[ABRAÃO]"
+name: "[user]"
 username: "[User99119922]"
 location: "Brasil 🇧🇷"
-role: "Desenvolvedor e criador independente"
+role: "Desenvolvedora e criadora independente"
 currently_learning:
   - Desenvolvimento web
   - JavaScript
