@@ -8,7 +8,7 @@
 
 ### `Olá, eu sou [USER]`
 
-**Desenvolvedora • Criador de projetos • Explorador de tecnologia**
+**Desenvolvedora • Criadora de projetos • Exploradora de tecnologia**
 
 > Transformando ideias em experiências digitais, uma linha de código por vez.
 
