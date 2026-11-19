@@ -146,9 +146,9 @@ Experimentos e projetos voltados à criação de ferramentas inteligentes e expe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=080B16&title_color=00F7FF&icon_color=BD35FF&text_color=E6F1FF&ring_color=00F7FF" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=user99119922&show_icons=true&hide_border=true&bg_color=080B16&title_color=00F7FF&icon_color=BD35FF&text_color=E6F1FF&ring_color=00F7FF" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=080B16&title_color=00F7FF&text_color=E6F1FF" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user99119922GITHUB&layout=compact&hide_border=true&bg_color=080B16&title_color=00F7FF&text_color=E6F1FF" alt="Linguagens mais utilizadas" />
 
 </div>
 
